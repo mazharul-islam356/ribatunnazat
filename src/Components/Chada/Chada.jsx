@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 const Chada = () => {
     return (
@@ -6,7 +7,9 @@ const Chada = () => {
             <div className="text-center">
                 <h1 className="text-4xl underline mt-6 font-semibold mb-4">হিসাব নিকাশ</h1>
                 <p className="mb-10">নিচের বাটনটিতে ক্লিক করে আপনি আপনার হিসাব নিকাশ দেখতে পারবেন</p>
+            <Link target="blank" to='https://docs.google.com/spreadsheets/d/17ByVV5doLtqoz7Hfvb1GlYGu4w7AKb-X9rpH6I3a74E/edit?usp=drivesdk'>
             <button className="btn btn-wide btn-outline btn-circle btn-accent"> Click Here</button>
+            </Link>
 
             </div>
 
