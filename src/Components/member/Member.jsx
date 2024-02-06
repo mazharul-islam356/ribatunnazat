@@ -7,7 +7,7 @@ const Member = () => {
 
 <div>
 
-<h1 className='text-center mt-10 text-2xl mb-4 font-semibold underline'>আমাদের সদস্যবৃন্দ</h1>
+<h1 className=' bg-pink-400 w-[19rem] p-3 border-4 border-dashed rounded-xl mx-auto text-white  text-center mt-10 text-2xl mb-4 font-semibold'>আমাদের সদস্যবৃন্দ</h1>
 
 <div className="flex items-center justify-center">
 	<div className="container">
@@ -15,7 +15,7 @@ const Member = () => {
 			<thead className="text-white">
 
 {/* 01 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left pl-6">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -23,7 +23,7 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr>      
 {/* 02 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -32,7 +32,7 @@ const Member = () => {
 				</tr>   
 
 {/* 03 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -40,7 +40,7 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 04 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -48,7 +48,7 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 05 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -56,7 +56,7 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 06 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -64,7 +64,7 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 07 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -72,7 +72,7 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 08 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -80,7 +80,7 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 09 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -88,7 +88,79 @@ const Member = () => {
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 10 */}
-				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 11 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 12 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 13 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 14 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 15 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 16 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 17 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 18 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
+{/* 19 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
 					<th className="p-3 text-left">আইডি</th>
 					<th className="p-3 text-left">নাম</th>
 					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
@@ -125,7 +197,7 @@ const Member = () => {
 
 <td>
 
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_1').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_1').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_1" className="modal">
 
 
@@ -183,7 +255,7 @@ const Member = () => {
 
 <td>
 
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_2').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_2').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_2" className="modal">
 
 
@@ -240,7 +312,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0 font-semibold">অর্থ-সম্পাদক</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_3').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_3').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_3" className="modal">
 
   <div className="modal-box">
@@ -297,7 +369,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0 font-semibold">সহ-অর্থ-সম্পাদক</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_4').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_4').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_4" className="modal">
 
   <div className="modal-box">
@@ -354,7 +426,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_5').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_5').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_5" className="modal">
 
   <div className="modal-box">
@@ -409,7 +481,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_6').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_6').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_6" className="modal">
 
   <div className="modal-box">
@@ -464,7 +536,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_7').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_7').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_7" className="modal">
 
   <div className="modal-box">
@@ -519,7 +591,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_8').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_8').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_8" className="modal">
 
   <div className="modal-box">
@@ -574,7 +646,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_9').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_9').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_9" className="modal">
 
   <div className="modal-box">
@@ -628,7 +700,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_10').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_10').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_10" className="modal">
 
   <div className="modal-box">
@@ -677,12 +749,12 @@ const Member = () => {
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১১</td>
 					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: সিয়াম</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
-    <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/KhyHbTq/Whats-App-Image-2024-01-12-at-8-51-46-PM.jpg" />
+    <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/KhyHbTq/Whats-App-Image-2024-01-12-at-8-51-46-PM.jpg" />
   </div></td>
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_11').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_11').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_11" className="modal">
 
   <div className="modal-box">
@@ -732,12 +804,12 @@ const Member = () => {
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১২</td>
 					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: আয়াতুল্লাহ</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
-    <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/d2cPCnS/Whats-App-Image-2024-01-12-at-8-51-42-PM.jpg" />
+    <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/d2cPCnS/Whats-App-Image-2024-01-12-at-8-51-42-PM.jpg" />
   </div></td>
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_12').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_12').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_12" className="modal">
 
   <div className="modal-box">
@@ -787,12 +859,12 @@ const Member = () => {
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১৩</td>
 					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: আবু তায়েফ</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
-    <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/rtVyBgS/Whats-App-Image-2024-01-12-at-8-51-31-PM.jpg" />
+    <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/rtVyBgS/Whats-App-Image-2024-01-12-at-8-51-31-PM.jpg" />
   </div></td>
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_14').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_14').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_14" className="modal">
 
   <div className="modal-box">
@@ -843,12 +915,12 @@ const Member = () => {
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১৪</td>
 					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: মুনির হোসেন </td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
-    <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/6g82jJH/397874575-1092861348542222-79978.jpg" />
+    <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/6g82jJH/397874575-1092861348542222-79978.jpg" />
   </div></td>
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_13').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_13').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_13" className="modal">
 
   <div className="modal-box">
@@ -903,7 +975,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_15').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_15').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_15" className="modal">
 
   <div className="modal-box">
@@ -954,12 +1026,12 @@ const Member = () => {
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১৬</td>
 					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: মারুফুল ইসলাম</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
-    <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/Sdngv6p/411997369-1037233514211251-78797.jpg" />
+    <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/Sdngv6p/411997369-1037233514211251-78797.jpg" />
   </div></td>
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_16').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_16').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_16" className="modal">
 
   <div className="modal-box">
@@ -1012,12 +1084,12 @@ const Member = () => {
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১৭</td>
 					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: ইয়াছিন আরাফাত</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
-    <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/QbHTBPQ/Whats-App-Image-2024-01-12-at-8-51-33-PM.jpg" />
+    <img className="rounded-xl lg:h-24 h-16 w-20" src="https://i.ibb.co/QbHTBPQ/Whats-App-Image-2024-01-12-at-8-51-33-PM.jpg" />
   </div></td>
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_17').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_17').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_17" className="modal">
 
   <div className="modal-box">
@@ -1073,7 +1145,7 @@ const Member = () => {
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_18').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_18').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_18" className="modal">
 
   <div className="modal-box">
@@ -1122,14 +1194,14 @@ const Member = () => {
       {/* 19 mamun */}
 			<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১৯</td>
-					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মামুনুল হুদা</td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: মামুনুল হুদা</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
-    <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/MSrtbmS/Whats-App-Image-2024-02-05-at-3-21-18-PM.jpg" />
+    <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/MSrtbmS/Whats-App-Image-2024-02-05-at-3-21-18-PM.jpg" />
   </div></td>
   <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
 
 <td>
-<button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_19').showModal()}>Details</button>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_19').showModal()}>বিস্তারিত</button>
 <dialog id="my_modal_19" className="modal">
 
   <div className="modal-box">
@@ -1142,7 +1214,7 @@ const Member = () => {
           <div className="mt-10 mb-6">
         
           <div className="flex gap-1 justify-center mt-2">
-          <span className="font-bold text-xl">নাম:</span> <div className="italic">মামুনুল হুদা</div>
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: মামুনুল হুদা</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">নুরুল হুদা</div>

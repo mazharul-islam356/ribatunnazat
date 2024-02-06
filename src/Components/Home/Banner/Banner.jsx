@@ -9,8 +9,8 @@ const Banner = () => {
   <div className="hero-content text-center text-neutral-content">
     <div>
     <div className="text-center text-white">
-            <h1 className="text-4xl font-bold mb-2">রিবাতুননাজাত এসোসিয়েশন</h1>
-            <p>ক্ষুদ্র ক্ষুদ্র বালি কণা, বিন্দু বিন্দু জল। <br />
+            <h1 className="text-5xl font-bold mb-4">রিবাতুননাজাত এসোসিয়েশন</h1>
+            <p className="text-xl">ক্ষুদ্র ক্ষুদ্র বালি কণা, বিন্দু বিন্দু জল। <br />
             গড়ে তোলে মহাদেশ, সাগর অতল।</p>
           </div>
     </div>

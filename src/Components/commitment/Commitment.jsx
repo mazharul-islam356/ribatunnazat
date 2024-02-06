@@ -1,14 +1,10 @@
-import { AiOutlineDoubleLeft } from "react-icons/ai";
-import { BiChevronsLeft } from "react-icons/bi";
-import { BiChevronsRight } from "react-icons/bi";
-
 const Commitment = () => {
     return (
         <div className="my-8 w-11/12 mx-auto">
           <div className="flex justify-center gap-2 ">
-          <BiChevronsLeft className="text-4xl" />
-           <h1 className="text-3xl font-bold text-center mb-6 underline">রিবাতুননাজাত এসোসিয়েশনের অঙ্গীকারনামা</h1>
-           <BiChevronsRight className="text-4xl" />
+          
+           <h1 className="mb-6 text-3xl bg-pink-400 lg:w-[46rem] w-[50rem] lg:p-3 p-2 border-4 border-dashed rounded-xl mx-auto text-white font-semibold text-center">রিবাতুননাজাত এসোসিয়েশনের অঙ্গীকারনামা</h1>
+          
           </div>
 <p className="italic text-xl">
 

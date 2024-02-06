@@ -47,7 +47,7 @@ const Navbar = () => {
             </ul>
           </div>
           <img className="w-10 lg:ml-12" src="https://i.ibb.co/nQDwDZt/ribatunnazat-logo-removebg-preview.png" alt="" />
-          <a className="btn btn-ghost text-xl">রিবাতুননাজাত এসোসিয়েশন</a>
+          <a href="/" className="text-xl ml-2 font-semibold">রিবাতুননাজাত এসোসিয়েশন</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 relative lg:left-80 md:right-0">
