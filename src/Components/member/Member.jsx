@@ -189,7 +189,7 @@ const Member = () => {
       {/* 01 jahid */}
 				<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০০১</td>
-					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা. জাহিদুল ইসলাম</td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা. জাহেদুল ইসলাম</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 w-20" src="https://i.ibb.co/yNp4zFW/Whats-App-Image-2024-01-12-at-8-51-30-PM.jpg" />
   </div></td>
@@ -201,10 +201,8 @@ const Member = () => {
 <dialog id="my_modal_1" className="modal">
 
 
-  <div className="modal-box"> 
-
-  <div className="avatar flex justify-center mt-4">
-          
+<div className="modal-box"> 
+    <div className="avatar flex justify-center mt-4">
           <div className="w-28 rounded-xl">
             <img src="https://i.ibb.co/yNp4zFW/Whats-App-Image-2024-01-12-at-8-51-30-PM.jpg" />
           </div>
@@ -213,7 +211,7 @@ const Member = () => {
           <div className="mt-10 mb-6">
         
           <div className="flex gap-1 justify-center mt-2">
-          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: জাহিদুল ইসলাম</div>
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: জাহেদুল ইসলাম</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">মো: মুক্তার আহমাদ</div>
@@ -231,10 +229,8 @@ const Member = () => {
           </div>
           </div>
 
-
   </div>
  
-
   <form method="dialog" className="modal-backdrop">
     <button>close</button>
   </form>
@@ -247,7 +243,7 @@ const Member = () => {
       {/* 02 hamed */}
 				<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০০২</td>
-					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা. আবু হামেদ</td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা. আবু হামেদ হাসান</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 w-20" src="https://i.ibb.co/qMWSZh3/Whats-App-Image-2024-01-12-at-8-51-34-PM.jpg" />
   </div></td>
@@ -271,7 +267,7 @@ const Member = () => {
           <div className="mt-10 mb-6">
         
           <div className="flex gap-1 justify-center mt-2">
-          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা. আবু হামেদ</div>
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা. আবু হামেদ হাসান</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">সৈ.মুহা. আবু বকর সিদ্দীক</div>
@@ -301,7 +297,6 @@ const Member = () => {
 		</tr>
 
 
-
       {/* 03 ibrahim */}
 			<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০০৩</td>
@@ -328,10 +323,10 @@ const Member = () => {
           <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: ইবরাহীম খলিল</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
-          <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">মো: আব্দুল মন্নান</div>
+          <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic"> আব্দুল মন্নান</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
-          <span className="font-bold text-xl">মাতার নাম:</span> <div className="italic">মোসা: রাজিয়া খাতুন</div>
+          <span className="font-bold text-xl">মাতার নাম:</span> <div className="italic"> রাজিয়া খাতুন</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">ঠিকানা:</span> <div className="italic">আশ্রাফপুর,
@@ -354,8 +349,6 @@ const Member = () => {
 </dialog>
 </td>
         </tr> 
-
-
 
 
 
@@ -411,8 +404,6 @@ const Member = () => {
 </td>
   
         </tr> 
-
-
 
 
 
@@ -639,7 +630,7 @@ const Member = () => {
       {/* 09 furkan */}
 			<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০০৯</td>
-					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: ফুরকান</td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">আব্দুল্লাহ আল ফোরকান</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/Dbn51tY/Whats-App-Image-2024-01-12-at-8-51-47-PM-1.jpg" />
   </div></td>
@@ -659,7 +650,7 @@ const Member = () => {
           <div className="mt-10 mb-6">
         
           <div className="flex gap-1 justify-center mt-2">
-          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: ফুরকান</div>
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">আব্দুল্লাহ আল ফোরকান</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">আব্দুল হাই নিজামী</div>
@@ -747,7 +738,7 @@ const Member = () => {
       {/* 11 siam */}
 			<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১১</td>
-					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: সিয়াম</td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">সিয়াম ইবনে হাবিব</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/KhyHbTq/Whats-App-Image-2024-01-12-at-8-51-46-PM.jpg" />
   </div></td>
@@ -767,7 +758,7 @@ const Member = () => {
           <div className="mt-10 mb-6">
         
           <div className="flex gap-1 justify-center mt-2">
-          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: সিয়াম</div>
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">সিয়াম ইবনে হাবিব</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">মো: হাবিবুর রহমান</div>
@@ -913,7 +904,7 @@ const Member = () => {
       {/* 14 munir */}
       <tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
 					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১৪</td>
-					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: মুনির হোসেন </td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: মনির হোসেন </td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/6g82jJH/397874575-1092861348542222-79978.jpg" />
   </div></td>
@@ -933,7 +924,7 @@ const Member = () => {
           <div className="mt-10 mb-6">
         
           <div className="flex gap-1 justify-center mt-2">
-          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: মুনির হোসেন </div>
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: মনির হোসেন </div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">মাও. মো: ইউনুস আলি</div>

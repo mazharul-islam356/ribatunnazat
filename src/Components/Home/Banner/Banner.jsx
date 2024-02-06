@@ -1,7 +1,7 @@
 
 const Banner = () => {
     return (
-        <div className="rounded-xl">
+        <div className="rounded-xl ">
         
 
 <div className="hero rounded-xl min-h-screen " style={{backgroundImage: 'url(https://i.ibb.co/kxtH375/Whats-App-Image-2024-01-12-at-11-55-30-PM.jpg)'}}>

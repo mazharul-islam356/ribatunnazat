@@ -12,9 +12,9 @@ const OurWork = () => {
     return (
         <div className="mt-36">
 
-<h1 className="text-3xl bg-pink-400 w-96 p-3 border-4 border-dashed rounded-xl mx-auto text-white font-semibold text-center">আমাদের কার্যক্রম সমূহ</h1>
+<h1 className="text-3xl bg-pink-400 lg:w-96 w-80  mx-auto p-3 border-4 border-dashed rounded-xl text-white font-semibold text-center">আমাদের কার্যক্রম সমূহ</h1>
 
-          <div className="mt-16 grid lg:gap-0 gap-4 lg:grid-cols-2 justify-center items-center justify-items-center">
+          <div className="mt-16 grid lg:gap-0 gap-8 lg:grid-cols-2 justify-center items-center justify-items-center">
 
 
 <Card className="mt-6 w-96">

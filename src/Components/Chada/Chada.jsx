@@ -16,13 +16,13 @@ const Chada = () => {
             <h1 className="text-center border-4 w-80 p-2 mx-auto text-2xl mt-20 border-dashed rounded-lg bg-pink-400 text-white mb-10">২০২৩ এর যাবতীয় হিসাব</h1>
             <img className="w-[45rem] mx-auto shadow-md" src="https://i.ibb.co/KhQFM9R/Whats-App-Image-2024-01-20-at-11-48-57-AM.jpg" alt="" />
 
-            <img className="w-[45rem] mx-auto shadow-md" src="https://i.ibb.co/MkWx2KW/Whats-App-Image-2024-02-05-at-3-40-33-PM.jpg" alt="" />
+         
 
             <img className="w-[45rem] mx-auto shadow-md" src="https://i.ibb.co/vq02nGk/Whats-App-Image-2024-02-05-at-3-40-38-PM.jpg" alt="" />
 
             <img className="w-[45rem] mx-auto shadow-md" src="https://i.ibb.co/HVN8vHd/Whats-App-Image-2024-02-05-at-3-40-36-PM.jpg" alt="" />
 
-            <img className="w-[45rem] mx-auto shadow-md" src="https://i.ibb.co/SNQHyFT/Whats-App-Image-2024-02-05-at-3-40-35-PM.jpg" alt="" />
+            <img className="w-[45rem] mx-auto shadow-md" src="https://i.ibb.co/nBN9s54/Whats-App-Image-2024-02-06-at-8-22-17-PM.jpg" alt="" />
 
             <img className="w-[45rem] mx-auto shadow-md" src="https://i.ibb.co/kJybdzx/Whats-App-Image-2024-02-05-at-3-40-34-PM.jpg" alt="" />
         </div>
