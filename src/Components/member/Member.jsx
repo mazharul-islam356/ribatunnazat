@@ -5,6 +5,10 @@ const Member = () => {
 
     return (  
 
+<div>
+
+<h1 className='text-center mt-10 text-2xl mb-4 font-semibold underline'>আমাদের সদস্যবৃন্দ</h1>
+
 <div className="flex items-center justify-center">
 	<div className="container">
 		<table className="w-full flex flex-row flex-no-wrap sm:bg-white rounded-lg overflow-hidden sm:shadow-lg my-5">
@@ -12,83 +16,83 @@ const Member = () => {
 
 {/* 01 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left pl-6">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left pl-6">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr>      
 {/* 02 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr>   
 
 {/* 03 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 04 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 05 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 06 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 07 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 08 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 09 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 {/* 10 */}
 				<tr className="bg-teal-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
-					<th className="p-3 text-left">Id</th>
-					<th className="p-3 text-left">Name</th>
-					<th className="p-3 text-left lg:h-0 h-[4.2rem]">Image</th>
-					<th className="p-3 text-left lg:pl-40">Position</th>
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
 
@@ -107,14 +111,17 @@ const Member = () => {
     {/* --------------T body------------- */}
 
 		<tbody className="flex-1 sm:flex-none">
+
+
+
       {/* 01 jahid */}
 				<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">2022001</td>
-					<td className="lg:w-80 ml-10 lg:ml-0 p-3">Jahidul Islam</td>
+					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০০১</td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা. জাহিদুল ইসলাম</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 w-20" src="https://i.ibb.co/yNp4zFW/Whats-App-Image-2024-01-12-at-8-51-30-PM.jpg" />
   </div></td>
-  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সভাপতি</td>
+  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0 font-semibold">সভাপতি</td>
 
 <td>
 
@@ -172,7 +179,7 @@ const Member = () => {
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 w-20" src="https://i.ibb.co/qMWSZh3/Whats-App-Image-2024-01-12-at-8-51-34-PM.jpg" />
   </div></td>
-  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সহ-সভাপতি</td>
+  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0 font-semibold">সহ-সভাপতি</td>
 
 <td>
 
@@ -230,7 +237,7 @@ const Member = () => {
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/KVjnR2y/Whats-App-Image-2024-01-12-at-8-48-21-PM.jpg" />
   </div></td>
-  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">অর্থ-সম্পাদক</td>
+  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0 font-semibold">অর্থ-সম্পাদক</td>
 
 <td>
 <button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_3').showModal()}>Details</button>
@@ -287,7 +294,7 @@ const Member = () => {
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co/Bj6pv5F/Whats-App-Image-2024-01-12-at-8-51-35-PM.jpg" />
   </div></td>
-  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সহ-অর্থ-সম্পাদক</td>
+  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0 font-semibold">সহ-অর্থ-সম্পাদক</td>
 
 <td>
 <button className="btn btn-accent btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_4').showModal()}>Details</button>
@@ -580,7 +587,7 @@ const Member = () => {
           <div className="mt-10 mb-6">
         
           <div className="flex gap-1 justify-center mt-2">
-          <span className="font-bold text-xl">নাম:</span> <div className="italic">furkan</div>
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">মুহা: ফুরকান</div>
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">আব্দুল হাই নিজামী</div>
@@ -613,7 +620,7 @@ const Member = () => {
 
       {/* 10 abdur rahman */}
 			<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
-					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">2022010</td>
+					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০১০</td>
 					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মুহা: আব্দুর রহমান</td>
           <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
     <img className="rounded-xl lg:h-24 h-12 w-20" src="https://i.ibb.co/6Xtd4px/Whats-App-Image-2024-01-12-at-8-51-43-PM.jpg" />
@@ -674,6 +681,7 @@ const Member = () => {
 			</tbody>
 		</table>
 	</div>
+</div>
 </div>
     );
 };
