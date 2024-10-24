@@ -167,14 +167,18 @@ const Member = () => {
 					<th className="p-3 text-left lg:pl-40">পদবি</th>
 					<th className="p-3 text-left w-10 h-10"></th>
 				</tr> 
+{/* 20 */}
+				<tr className="bg-pink-400 mx-4 flex flex-col flex-no wrap sm:table-row rounded-l-lg sm:rounded-none mb-2 sm:mb-0">
+					<th className="p-3 text-left">আইডি</th>
+					<th className="p-3 text-left">নাম</th>
+					<th className="p-3 text-left lg:h-0 h-[4.2rem]">ছবি</th>
+					<th className="p-3 text-left lg:pl-40">পদবি</th>
+					<th className="p-3 text-left w-10 h-10"></th>
+				</tr> 
 
 
 
 			</thead>
-
-
-
-
 
 
 
@@ -1220,6 +1224,57 @@ const Member = () => {
           </div>
           <div className="flex gap-1 justify-center mt-1">
           <span className="font-bold text-xl">মোবাইল:</span> <div className="italic">০০৯৬৬৫৩৫৯২৫৪৩২
+        </div>
+          </div>
+          </div>
+
+  </div>
+
+  <form method="dialog" className="modal-backdrop">
+    <button>close</button>
+  </form>
+
+</dialog>
+</td>
+  
+        </tr> 
+
+      {/* 20 shahadat */}
+			<tr className="flex flex-col flex-no wrap sm:table-row mb-2 sm:mb-0">
+					<td className="w-40 ml-10 lg:ml-0 p-3 lg:pl-6">২০২২০২০</td>
+					<td className="lg:w-80 ml-10 lg:ml-0 p-3">মোঃ শাহাদাত হোসেন</td>
+          <td className="w-16 p-3 ml-10 lg:ml-0">  <div>
+    <img className="rounded-xl lg:h-24 h-14 w-20" src="https://i.ibb.co.com/5xBBgnQ/Whats-App-Image-2024-10-24-at-9-50-58-AM.jpg" />
+  </div></td>
+  <td className="p-3 w-40 lg:pl-40 ml-10 lg:ml-0">সদস্য</td>
+
+<td>
+<button className="btn btn-secondary btn-sm btn-outline ml-10 lg:ml-0" onClick={()=>document.getElementById('my_modal_20').showModal()}>বিস্তারিত</button>
+<dialog id="my_modal_20" className="modal">
+
+  <div className="modal-box">
+  <div className="avatar flex justify-center mt-4">
+          
+          <div className="w-28 h-36 rounded-xl">
+            <img  src="https://i.ibb.co.com/5xBBgnQ/Whats-App-Image-2024-10-24-at-9-50-58-AM.jpg" />
+          </div>
+          </div>       
+          <div className="mt-10 mb-6">
+        
+          <div className="flex gap-1 justify-center mt-2">
+          <span className="font-bold text-xl">নাম:</span> <div className="italic">মোঃ শাহাদাত হোসেন</div>
+          </div>
+          <div className="flex gap-1 justify-center mt-1">
+          <span className="font-bold text-xl">পিতার নাম:</span> <div className="italic">মোঃ কামাল হোসেন</div>
+          </div>
+         
+          <div className="flex gap-1 justify-center mt-1">
+          <span className="font-bold text-xl">ঠিকানা:</span> <div className="italic">বারপাড়া, বন্দর, নারায়ণগঞ্জ
+
+        </div>
+          </div>
+          <div className="flex gap-1 justify-center mt-1">
+          <span className="font-bold text-xl">মোবাইল:</span> <div className="italic">01877841476
         </div>
           </div>
           </div>
