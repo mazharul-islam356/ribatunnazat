@@ -17,7 +17,7 @@ const Footer = () => {
     <header className="footer-title">Social</header> 
     <div className="grid grid-flow-col gap-4">
      
-     <Link target="blank" to='https://www.facebook.com/profile.php?id=100094011410179&mibextid=ZbWKwL'>
+     <Link target="blank" to='https://www.facebook.com/profile.php?id=61567456332432&mibextid=ZbWKwL'>
      
      <FaFacebook className="text-3xl" />
 
